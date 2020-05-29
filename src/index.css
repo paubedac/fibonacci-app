@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+
+.Fibonacci-form {
+  padding-top: 30px;
+
+}
+
+input[type="submit"] {
+  width: 120px;
+}
